@@ -1,0 +1,3 @@
+todo list
+    - study for math
+    - finish physics hw
